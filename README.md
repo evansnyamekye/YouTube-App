@@ -58,7 +58,7 @@
 To get a local copy up and running, follow these steps:
 - Open your Terminal
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone https://github.com/evansnyamekye/Portfolio-CompleteWebsite.git
+- [Copy & Paste] git clone https://github.com/evansnyamekye/YouTube-App.git
 
 ### Prerequisites
 
@@ -71,12 +71,12 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone  https://github.com/evansnyamekye/Portfolio-CompleteWebsite.git
+- git clone  https://github.com/evansnyamekye/YouTube-App.git
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/evansnyamekye/Portfolio-CompleteWebsite.git
+  git clone https://github.com/evansnyamekye/YouTube-App.git
 ```
 --->
 
@@ -100,7 +100,7 @@ This project is deployed by using Github tools.
 
 ### Online-Link (Complete website)
 
-- https://evansnyamekye.github.io/Portfolio-CompleteWebsite/
+- https://you-tube-app-git-css-html-layout-evansnyamekye.vercel.app/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -114,7 +114,7 @@ To run the project, execute the following command by clonning to your machine:
 Example command:
 
 ```sh
-  git clone https://github.com/evansnyamekye/Portfolio-CompleteWebsite.git
+  git clone https://github.com/evansnyamekye/YouTube-App.git
 ```
 
 
